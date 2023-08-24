@@ -6,3 +6,5 @@ hash_table
 bst
 heap
 graph
+binary_search
+binary_search_recursive
