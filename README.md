@@ -4,7 +4,7 @@ Data Structures and Algorithms tutorial from [@mycodeschool](https://www.youtube
 
 ## Data Structures
 
-+ [Array]()
++ [Array](https://github.com/Koushlendra-Kumar/DSA-in-CPP/blob/main/1.%20Dynamic%20Arrays/arrays.cc)
 + [Linked List]()
 + [Stack]()
 + [Queue]()
